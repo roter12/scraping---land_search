@@ -1,0 +1,27 @@
+Build a web scraper in Python
+US: Steve Lynch(slynch00@gmail.com)
+=========================================================
+Web Scraper Description
+
+I am looking to have someone create a python script for me that I can use to scrape data from three websites.
+
+The basic structure of the web scraper
+• input some criteria
+• web scrape 3 websites for 3 elements
+• export the data into a csv file
+
+The script will prompt for three variables
+Using the input variables and some static variables, the script will be able to load the website with the correct filters for the data.
+Then web scrape 3 elements from three web site results including the pagination
+
+The output from the three sites must be in a single csv file stored in the local directory that the script is run from
+
+I have a detailed description of the urls and the project parameters. It will require someone who is experienced with web scraping. At least one of the sites has bot detection. If you are skilled at building a web scraper, this is a a simple job. The script can be written with BeautifulSoup or Selenium, the specific library doesn't matter. As long as I can run it and it does the job I need it to.
+
+Each single website target scraped and the correct data in the csv file will be a milestone
+
+The project is not urgent, but I would like completed within 2 weeks
+
+The goal is for my ability to run the script, provide the variables, open the csv file.
+
+Please ask any questions
